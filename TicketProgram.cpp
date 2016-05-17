@@ -4,7 +4,7 @@
 // Name        : TicketProgram.cpp
 // Author      : Michael Gabbard
 // Version     :
-// Copyright   : Your copyright notice
+// Copyright   : I guess its so simple I don't care
 // Description : Hello World in C++, Ansi-style
 //============================================================================
 #include "stdio.h"
